@@ -1,0 +1,39 @@
+/* Global ======= */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f0f2f5;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width: min(90vw, 800px);
+    margin: auto;
+    border: black 1px solid;
+}
+
+/* Header ======= */
+header{
+    background-color: #2D4A22;
+    padding: 2rem 0 10rem;
+    text-align: center;
+}
+
+#logo{
+    color: #fff;
+    font-weight: 100;
+}
+
+/* Balance ========= */
+
+
+/* Footer ====== */
+
+footer{
+    text-align: center;
+}
