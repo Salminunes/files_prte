@@ -1,0 +1,15 @@
+--- Atalhos VS Code ---
+
+Mostrar barra de menu.
+Ctrl+shift+P e pesquise por: Toggle menu bar
+
+Explorer(pastas)
+Ctrl+shift+E
+
+Segurar Alt para selecionar várias linhas
+
+Copiar uma seleção pra baixo
+Alt+shift+setaDown
+
+Comentar
+Ctrl+;
