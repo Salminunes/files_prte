@@ -13,3 +13,5 @@ Alt+shift+setaDown
 
 Comentar
 Ctrl+;
+
+Alt+Z : Ajustar a linha a tela
