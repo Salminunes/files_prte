@@ -1,7 +1,0 @@
-15/03 = SQL - Estruturas - OOP - PF
-16/03 = GIT e GitHub
-17/03 = HTTP e Iniciar Maratona(1 Aula)
-18/03 = Maratona (2 Aulas)
-19/03 = |Especializar| Javascript AeP
-20/03 = 
-21/03 = |Especializar| APIS
