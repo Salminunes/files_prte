@@ -1,0 +1,31 @@
+Começar um projeto com yarn
+
+terminal
+yarn init -y (cria o package.json)
+
+yarn add express (adiciona o express do node-modules)
+
+após, criar o arquivo src/server.js
+
+(Se for um typescript criar o arquivo server.ts)
+
+
+##### Para typescript ######
+
+no terminal 
+
+yarn add @types/express -D (instalar a biblioteca @types)
+yarn add typescript -D (instalar dependencia para converter o server.ts para server.js)
+yarn tsc --init (inicializar o typescript)
+
+ir no arquivo tsconfig.json, procurar o outDir, descomentar e definir uma pasta para direcionar o arquivo server.js
+por exemplo, "./dist" para salvar na pasta dist
+
+
+
+(no arquivo server.ts)
+import express from 'express';
+
+const app= express();
+
+app.listen(3333);

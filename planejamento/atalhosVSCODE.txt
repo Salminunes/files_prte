@@ -6,6 +6,9 @@ Ctrl+shift+P e pesquise por: Toggle menu bar
 Explorer(pastas)
 Ctrl+shift+E
 
+Mostrar e esconder explorer
+ctrl+B
+
 Segurar Alt para selecionar várias linhas
 
 Copiar uma seleção pra baixo
@@ -15,3 +18,6 @@ Comentar
 Ctrl+;
 
 Alt+Z : Ajustar a linha a tela
+
+Implementar metodos
+ctrl + .
