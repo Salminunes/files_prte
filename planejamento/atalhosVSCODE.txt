@@ -11,6 +11,9 @@ ctrl+B
 
 Segurar Alt para selecionar várias linhas
 
+Alterar mais de uma palavra igual ao msm tempo
+Seleciona a palavra, clique Ctrl+D e altere
+
 Copiar uma seleção pra baixo
 Alt+shift+setaDown
 
